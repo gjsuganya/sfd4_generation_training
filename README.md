@@ -41,9 +41,3 @@ Requirements are follows:
 10. The expense team must be able to edit all expense reports and line items.
 11. All users can create expense reports, but should not be able to access anyone else’s expense report.
 12. Managers need to be able to access their subordinates’ expense reports.
-  
-  
-  
-  
-  
-  
